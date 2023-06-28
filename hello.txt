@@ -1,1 +1,1 @@
-Hello Worldaz acr task list-runs --registry jayshree02 --output table
+Hello World
